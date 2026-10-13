@@ -1,3 +1,2 @@
 Line 1: init (C1)
-
-Line 2: base (C2)
+Line 2: master version from C3
