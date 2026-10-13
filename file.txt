@@ -1,2 +1,2 @@
 Line 1: init (C1)
-Line 2: master version from C3
+Line 2: resolved combined version (C3 + C5)
