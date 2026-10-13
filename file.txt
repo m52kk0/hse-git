@@ -3,3 +3,5 @@ Line 1: init (C1)
 Line 2: base (C2)
 
 Line 3: master feature (C3)
+
+Line 6: combined change (C6)
